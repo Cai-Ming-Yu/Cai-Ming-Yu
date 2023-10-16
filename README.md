@@ -1,4 +1,4 @@
-### Hi there 👋
+### ねね、頑張ります、ありがとう!
 
 <!--
 **Cai-Ming-Yu/Cai-Ming-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
