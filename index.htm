@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <script>
+        var userLang = navigator.language || navigator.userLanguage;
+        if (userLang === "en-US") {
+            window.location.replace = "https://en.caimingyu.tokyo";
+        } else if (userLang === "ja-JP") {
+            window.location.replace = "https://jp.caimingyu.tokyo";
+        } else if (userLang === "zh-CN" || userLang === "zh-TW" || userLang === "zh-HK") {
+            window.location.replace = "https://cn.caimingyu.tokyo";
+        } else {
+            window.location.replace = "https://en.caimingyu.tokyo";
+        }
+    </script>
+</body>
+
+</html>
