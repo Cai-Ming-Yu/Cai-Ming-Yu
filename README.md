@@ -1,4 +1,5 @@
-### ねね、頑張ります、ありがとう!
+###### 一般的な開発者。
+###### A common developer.
 
 <!--
 **Cai-Ming-Yu/Cai-Ming-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
