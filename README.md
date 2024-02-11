@@ -4,6 +4,9 @@
 ## Visitors 😋
 <a href="https://info.flagcounter.com/TfcO"><img src="https://s01.flagcounter.com/countxl/TfcO/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_6/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+## Status 🫡
+![status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cai-Ming-Yu&theme=github)
+
 <!--
 **Cai-Ming-Yu/Cai-Ming-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
